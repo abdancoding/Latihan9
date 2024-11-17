@@ -1,0 +1,22 @@
+body {
+  background-color: #8d8daa;
+}
+
+h1,
+h2,
+h3 {
+  color: white;
+  background-color: black;
+}
+
+span {
+  color: white;
+}
+
+#List2 {
+  color: palevioletred;
+}
+
+.mark {
+  background-color: aquamarine;
+}
